@@ -1,11 +1,13 @@
 # OneLastTime
 
-For OpenMP code follow below command to compile code:
+**For OpenMP code follow below command to compile code:**
+
          g++ -fopenmp filename.cpp -o filename
         ./filename
 
 
 Instructions to run CUDA program:
+
       1. Open google colab.
       2. open new notebook.
       3. click on Runtime option.
